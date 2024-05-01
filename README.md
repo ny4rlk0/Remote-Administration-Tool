@@ -3,6 +3,8 @@ Telegram uçlu, toplu ya da tekil Uzak Windows Yönetimi Aracı.
 
 <a href="https://github.com/ny4rlk0/Uzak-Windows-Yonetimi-Araci/releases/download/TelegramRemoteAccessBot_1_0_0_36_Final/TelegramRemoteAccessBot_1_0_0_36_Final.zip">İndir</a>
 
+Kaynak koddan derleyenler için =>
+
 ffmpeg.exe dosyasını aşağıdaki yola koyun. Release içinde var!
 
 /TelegramRemoteAccessBot/bin/x86/Release/ffmpeg.exe
