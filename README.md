@@ -10,7 +10,7 @@ ffmpeg.exe dosyasını aşağıdaki yola koyun. Release içinde var!
 <a href="https://github.com/ny4rlk0/Remote-Access-Tool-Telegram">Eski Sürümü</a>
 
 Hızlı Kullanımı:
-Botunuzu botfatherden oluşturup ilgili bilgileri token sekmesine girin. Eğer gruptan kullanmak istiyorsanız, botunuzu gruba ekleyin, admin yetkisi ve mesajlara erişim verin. Eğer sadece bota mesaj atarak kullanmak istiyorsanız, botfatherdan Botunuzun gruba eklenmesini kapatın. TelegramUserID'nizi lisans sekmesine girin. Programı yeniden başlatın. Eğer Telegram User Id değerinizi bilmiyorsanız Telegramdan bota /userid yazın ve Telegram User Id sayınızı öğrenin. Daha sonra token sekmesine bu bilgiyi girin ve duruma göre kaydedin veya değiştirin. Botu yeniden başlatın. 
+Botunuzu botfatherden oluşturup ilgili bilgileri token sekmesine girin. Eğer gruptan kullanmak istiyorsanız, botunuzu gruba ekleyin, admin yetkisi ve mesajlara erişim verin. Eğer sadece bota mesaj atarak kullanmak istiyorsanız, botfatherdan Botunuzun gruba eklenmesini kapatın. Botunuza özelden mesaj yazın. TelegramUserID'nizi lisans sekmesine girin. Programı yeniden başlatın. Eğer Telegram User Id değerinizi bilmiyorsanız Telegramdan bota /userid yazın ve Telegram User Id sayınızı öğrenin. Daha sonra token sekmesine bu bilgiyi girin ve duruma göre kaydedin veya değiştirin. Botu yeniden başlatın. 
 
 Telegram komutları:
 
