@@ -1,6 +1,11 @@
 # Uzak-Windows-Yönetimi-Aracı
 Telegram uçlu, toplu ya da tekil Uzak Windows Yönetimi Aracı.
+
 <a href="https://github.com/ny4rlk0/Uzak-Windows-Yonetimi-Araci/releases/download/TelegramRemoteAccessBot_1_0_0_36_Final/TelegramRemoteAccessBot_1_0_0_36_Final.zip">İndir</a>
+
+ffmpeg.exe dosyasını aşağıdaki yola koyun. Release içinde var!
+
+/TelegramRemoteAccessBot/bin/x86/Release/ffmpeg.exe
 
 Hızlı Kullanımı:
 Botunuzu botfatherden oluşturup ilgili bilgileri token sekmesine girin. Eğer gruptan kullanmak istiyorsanız, botunuzu gruba ekleyin, admin yetkisi ve mesajlara erişim verin. Eğer sadece bota mesaj atarak kullanmak istiyorsanız, botfatherdan Botunuzun gruba eklenmesini kapatın. TelegramUserID'nizi lisans sekmesine girin. Programı yeniden başlatın. Eğer Telegram User Id değerinizi bilmiyorsanız Telegramdan bota /userid yazın ve Telegram User Id sayınızı öğrenin. Daha sonra token sekmesine bu bilgiyi girin ve duruma göre kaydedin veya değiştirin. Botu yeniden başlatın. 
