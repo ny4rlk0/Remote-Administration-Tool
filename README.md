@@ -115,3 +115,5 @@ Uuid değeri eşleşen bilgisayarda /ss komutunu çalıştırır. /ss yerine far
 
 /exit
 Bilgisayarda çalışan botu kapatır. Tekrar bilgisayarın yanına gidip çalıştırmanız gerekir.
+
+Kendime not: Telegram içi etkileşimi ve menüyü ingilizceye de çevir. Muhtemelen. Bir ara. 
